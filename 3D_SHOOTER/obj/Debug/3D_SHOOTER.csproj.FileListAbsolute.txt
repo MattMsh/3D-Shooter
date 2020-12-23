@@ -1,0 +1,14 @@
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\3D_SHOOTER.exe.config
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\3D_SHOOTER.exe
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\3D_SHOOTER.pdb
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\OpenTK.dll
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\System.Drawing.Common.dll
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\OpenTK.pdb
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\bin\Debug\OpenTK.xml
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.csproj.CopyComplete
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.exe
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.pdb
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\_3D_SHOOTER.Properties.Resources.resources
+C:\Users\Matthew\source\repos\3D_SHOOTER\3D_SHOOTER\obj\Debug\3D_SHOOTER.csproj.GenerateResource.cache
